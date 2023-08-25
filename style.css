@@ -1,0 +1,10 @@
+.centre{
+    margin: auto;
+    align-items: center;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+#timeRemaining{text-align: center;
+}#timePassed{text-align: center;
+}
